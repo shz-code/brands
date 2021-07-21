@@ -76,6 +76,10 @@
         font-size: 25px;
     }
 
+    .banner::before {
+        background-attachment: scroll;
+    
+    }
 
     .banner h2 {
         margin-top: 100px;
